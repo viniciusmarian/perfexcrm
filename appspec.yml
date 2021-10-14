@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: perfexcrm/
+  - source: aplicacao/
     destination: /var/www/html/
     owner: www-data
 hooks:
